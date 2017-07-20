@@ -123,6 +123,7 @@
     <Content Include="css\style.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="Global.asax" />
+    <Content Include="images\git-cheat-sheet-large01.png" />
     <Content Include="scripts\bootstrap.min.js" />
     <Content Include="scripts\jquery.min.js" />
     <Content Include="Web.config" />
